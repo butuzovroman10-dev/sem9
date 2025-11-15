@@ -1,0 +1,52 @@
+{
+  "testResults": [
+    {
+      "amount": 100,
+      "timeMicroseconds": 2.29,
+      "coins": 1,
+      "timePerCoinNanoseconds": 2288.00
+    },
+    {
+      "amount": 500,
+      "timeMicroseconds": 12.55,
+      "coins": 5,
+      "timePerCoinNanoseconds": 2509.40
+    },
+    {
+      "amount": 1000,
+      "timeMicroseconds": 24.54,
+      "coins": 10,
+      "timePerCoinNanoseconds": 2454.20
+    },
+    {
+      "amount": 2000,
+      "timeMicroseconds": 48.92,
+      "coins": 20,
+      "timePerCoinNanoseconds": 2446.10
+    },
+    {
+      "amount": 5000,
+      "timeMicroseconds": 121.72,
+      "coins": 50,
+      "timePerCoinNanoseconds": 2434.40
+    },
+    {
+      "amount": 10000,
+      "timeMicroseconds": 242.94,
+      "coins": 100,
+      "timePerCoinNanoseconds": 2429.35
+    },
+    {
+      "amount": 15000,
+      "timeMicroseconds": 525.18,
+      "coins": 150,
+      "timePerCoinNanoseconds": 3501.19
+    },
+    {
+      "amount": 20000,
+      "timeMicroseconds": 489.64,
+      "coins": 200,
+      "timePerCoinNanoseconds": 2448.20
+    }
+  ]
+}
